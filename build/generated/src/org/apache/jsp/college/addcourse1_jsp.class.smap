@@ -1,0 +1,16 @@
+SMAP
+addcourse1_jsp.java
+JSP
+*S JSP
+*F
++ 0 addcourse1.jsp
+college/addcourse1.jsp
+*L
+1,2:45
+4,24:48
+27,4:72
+32,41:77
+72:118
+73:119,3
+74,3:122
+*E

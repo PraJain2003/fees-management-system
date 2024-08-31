@@ -1,0 +1,17 @@
+SMAP
+newjsp_jsp.java
+JSP
+*S JSP
+*F
++ 0 newjsp.jsp
+newjsp.jsp
++ 1 general2.jsp
+general2.jsp
++ 2 general3.jsp
+general3.jsp
+*L
+5:50
+1#1,46:51
+6#0,33:96
+1#2,22:128
+*E
